@@ -10,7 +10,7 @@ services:
       - key: OPENAI_API_KEY
         value: "false"
       - key: CHANNELS
-        value: "SodyVnKr"
+        value: "AnnieVnKr"
       - key: GPT_MODE
         value: "CHAT"
       - key: HISTORY_LENGTH
