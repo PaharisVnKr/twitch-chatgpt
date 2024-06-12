@@ -22,7 +22,7 @@ services:
       - key: TWITCH_USER  # https://dev.twitch.tv/console
         value: "SodyVnKr"
       - key: TWITCH_AUTH  # https://twitchapps.com/tmi/
-        value: "oauth:c7lsmzmhyge6soifz9xlhshytxlnsn"
+        value: "oauth:tgwxstauca9cg9i2ouy3s7i0zuup5q"
       - key: SEND_USERNAME
         value: "true"
       - key: ENABLE_TTS
